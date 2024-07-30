@@ -16,7 +16,6 @@
 - Using / Making Game Engines
 - Computer Graphics
 - GPU Optimizations
-- Medical AI
 
 <br>
 
@@ -84,10 +83,6 @@
 <!-- <br> -->
 
 
-
-
-
-
 <!-- Github stats -->
 
 <h3 align="left">Github Stats 📈</h3>
@@ -95,13 +90,13 @@
 <table border="0">
 <tr border="0">
 <td width="50%" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebedy&layout=donut-vertical&theme=shadow_green&hide_border=true&no-bg=true&no-frame=true&show_icons=true&langs_count=8"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taewookworks&layout=donut-vertical&theme=shadow_green&hide_border=true&no-bg=true&no-frame=true&show_icons=true&langs_count=8"/>
 </td>
 
 <!-- material-palenight / nord / discord_old_blurpl -->
 
 <td width="50%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rebedy&theme=shadow_green&hide_border=true&show_icons=true" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=taewookworks&theme=shadow_green&hide_border=true&show_icons=true" alt="GitHub Streak" /></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rebedy&include_all_commits=true&rank_icon=github&theme=shadow_green&hide_border=true&no-bg=true&no-frame=true&show_icons=true" />
 </td>
 </tr>
@@ -110,39 +105,12 @@
 <br>
 <!-- <br> -->
 
-
-
-
-
-<!-- Social Media Icons -->
-
-<h3 align="left">Connect with me 🫶 </h3>
-<!-- <img src="https://slackmojis.com/emojis/13924-blueblob_jump/download" width="20"></h3> -->
-
-<a href="https://www.instagram.com/rebe.lee17/">
-  <img align="left" alt="rebedy Instagram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/dyanlee/">
-  <img align="left" alt="rebedy Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-</a>
-<a href="https://www.reddit.com/user/rebedy17">
-  <img align="left" alt="rebedy Reddit" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
-</a>
-<p align="center">
-<!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
-</p>
-
 <br>
 <br>
 <br>
-
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frebedy%2Frebedy&count_bg=%23194400&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-![Views](https://komarev.com/ghpvc/?username=rebedy&color=194400&style=flat&label=VIEWS&abbreviated=true&base=682)
 
 <!--
-**rebedy/rebedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TaewookWorks/TaewookWorks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
