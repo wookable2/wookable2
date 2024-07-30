@@ -41,9 +41,9 @@
 <img  alt="Notion"  src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
 <p  align="center">
-<img  alt="DirectX"  src="https://img.shields.io/badge/DirectX-8A2BE2"/>
-<img  alt="IMGUI"  src="https://img.shields.io/badge/ImGui-8A2BE2"/>
-<img  alt="BT.CPP"  src="https://img.shields.io/badge/BTCPP-8A2BE2"/>  
+<img  alt="DirectX"  src="https://img.shields.io/badge/DirectX-a3a387"/>
+<img  alt="IMGUI"  src="https://img.shields.io/badge/ImGui-a3a387"/>
+<img  alt="BT.CPP"  src="https://img.shields.io/badge/BTCPP-a3a387"/>  
 </p>
 
 <br>
