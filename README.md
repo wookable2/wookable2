@@ -1,11 +1,13 @@
+
 <h1 align="center">
 <!--   <img src="https://slackmojis.com/emojis/20940-wave/download" width="60"/> -->
   <img src="https://slackmojis.com/emojis/6863-blob_highfive/download" width="60"/>
 </h1>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Hey%2C+I'm+Dayoung.;AI+Researcher.&font=Fira%20Code&center=true&color=e0c8d0&width=380&height=50&duration=4000&pause=1000">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&pause=1000&color=F7D08C&background=A935FF00&width=435&lines=Making+Games+%26+Engines%2C+Many+More!">
 </h3>
+-->  
 
 
 
