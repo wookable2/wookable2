@@ -13,9 +13,9 @@
 <!-- Interests -->
 <h3 align="left">Interests 💬</h3>
 
-- Deep Learning
-- AI Applications in SoC
-- Graphics and Visualization
+- Using / Making Game Engines
+- Computer Graphics
+- GPU Optimizations
 - Medical AI
 
 <br>
@@ -29,41 +29,31 @@
 <img  alt="C++"  src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 <p  align="center">
-<img  alt="Visual Studio Code"  src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<!-- <img  alt="Visual Studio"  src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> -->
-<img  alt="PyCharm"  src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/>
-<img  alt="Colab"  src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white"/>
+<img  alt="Visual Studio"  src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 </p>
 <p  align="center">
-<img  alt="Python"  src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img  alt="PyTorch"  src="https://img.shields.io/badge/PyTorch-%23FF6F00.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img  alt="TensorFlow"  src="https://img.shields.io/badge/Tensorflow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img  alt="Markdown"  src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-<!-- <img  alt="C++"  src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> -->
-<!-- <img  alt="MySQL"  src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> -->
-<!-- <img  alt="CSS3"  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> -->
-<!-- <img  alt="JavaScript"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
+<img  alt="Unity"  src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+<img  alt="Unreal Engine"  src="https://img.shields.io/badge/unreal engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </p>
 <p  align="center">
 <img  alt="git"  src="https://img.shields.io/badge/GIT-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img  alt="Github"  src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <!-- <img  alt="AWS"  src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> -->
 <!-- <img  alt="Docker"  src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> -->
-<img  alt="Unity"  src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-<img  alt="Unreal Engine"  src="https://img.shields.io/badge/unreal engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </p>
 <p  align="center">
-<img  alt="GitHub Actions"  src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-<p  align="center">
-<img  alt="Jira"  src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
-<img  alt="Confluence"  src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
 <img  alt="Notion"  src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
+<p  align="center">
+<img  alt="DirectX"  src="https://img.shields.io/badge/DirectX-8A2BE2"/>
+<img  alt="IMGUI"  src="https://img.shields.io/badge/ImGui-8A2BE2"/>
+<img  alt="BT.CPP"  src="https://img.shields.io/badge/BTCPP-8A2BE2"/>  
+</p>
+
 <br>
 <!-- <br> -->
 
-<!-- CHECK!!!!!! -->
+<!-- CHECK: -->
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 
