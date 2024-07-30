@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools 🔧</h3>
 <p  align="center">
-<img  alt="Linux"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
+<img  alt="C"  src="https://img.shields.io/badge/C-FCC624?style=for-the-badge&logo=C&logoColor=white"/>
 <img  alt="Ubuntu"  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 </p>
 <p  align="center">
