@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&pause=1000&color=F7D08C&background=A935FF00&width=435&lines=Making+Games+%26+Engines%2C+Many+More!">
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&pause=1000&color=F7D08C&background=A935FF00&center=true&vCenter=true&width=435&lines=Making+Games+%26+Engines%2C+Many+More!">
 </h3>
 -->  
 
