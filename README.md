@@ -93,7 +93,7 @@
 <!-- material-palenight / nord / discord_old_blurpl -->
 
 <td width="50%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=taewookworks&theme=shadow_green&hide_border=true&show_icons=true" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=taewookworks&theme=dark&hide_border=false&show_icons=true" alt="GitHub Streak" /></a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=taewookworks&include_all_commits=true&rank_icon=github&theme=dark&hide_border=false&no-bg=false&no-frame=true&show_icons=true" />
 </td>
 </tr>
