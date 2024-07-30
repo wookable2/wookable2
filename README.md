@@ -1,7 +1,6 @@
 
 <h1 align="center">
-<!--   <img src="https://slackmojis.com/emojis/20940-wave/download" width="60"/> -->
-  <img src="https://slackmojis.com/emojis/6863-blob_highfive/download" width="60"/>
+  <img src="https://slackmojis.com/emojis/22801-game-controller/download" width="60"/>
 </h1>
 
 <h3 align="center">
