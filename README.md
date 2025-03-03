@@ -83,6 +83,7 @@
 - Stolen Youth (Direct3D 11) : https://github.com/ParagonGA4th/GAFinalProject 
 <br>
 - V-GUN (Direct3D 11) : https://github.com/Team-CurryRice/V-GUN
+<br>
 - SuperNova (Direct2D) : https://github.com/GA2Q-SuperNovaProject/GA2Q-SuperNovaProject
 <br>
 - CheckInPlz (GDI) : https://github.com/GI-CheckInPlz/CheckInPlz
