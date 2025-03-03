@@ -79,7 +79,7 @@
 <br>
 <!-- <br> -->
 <h2 align="left">My Work 💼</h2>
-<h2 align="left">Custom Engines 💼</h2>
+<h3 align="left">Custom Engines</h3>
 - Stolen Youth (Direct3D 11) : https://github.com/ParagonGA4th/GAFinalProject 
 <br>
 - SuperNova (Direct2D) : https://github.com/GA2Q-SuperNovaProject/GA2Q-SuperNovaProject
