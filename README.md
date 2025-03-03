@@ -79,7 +79,9 @@
 <br>
 <!-- <br> -->
 <h3 align="left">My Work 💼</h3>
-- Paragon Engine / Stolen Youth : https://github.com/ParagonGA4th/GAFinalProject
+- Stolen Youth (Direct3D 11) : https://github.com/ParagonGA4th/GAFinalProject
+- SuperNova (Direct2D) : https://github.com/GA2Q-SuperNovaProject/GA2Q-SuperNovaProject
+- CheckInPlz (GDI) : https://github.com/GI-CheckInPlz/CheckInPlz
 
 <br>
 
