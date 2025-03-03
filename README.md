@@ -8,7 +8,7 @@
 </h3>
 
 <!-- Interests -->
-<h3 align="left">Interests 💬</h3>
+<h2 align="left">Interests 💬</h2>
 
 - Using / Making Game Engines
 - Computer Graphics
@@ -90,7 +90,7 @@
 
 <!-- Github stats -->
 
-<h3 align="left">Github Stats 📈</h3>
+<h2 align="left">Github Stats 📈</h2>
 
 <table border="0">
 <tr border="0">
