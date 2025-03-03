@@ -19,7 +19,7 @@
 
 <!-- Language and Tools -->
 
-<h3 align="left">Languages and Tools 🔧</h3>
+<h2 align="left">Languages and Tools 🔧</h2>
 <p  align="center">
 <img  alt="C"  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img  alt="C++"  src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -78,9 +78,12 @@
 
 <br>
 <!-- <br> -->
-<h3 align="left">My Work 💼</h3>
-- Stolen Youth (Direct3D 11) : https://github.com/ParagonGA4th/GAFinalProject
+<h2 align="left">My Work 💼</h2>
+<h2 align="left">Custom Engines 💼</h2>
+- Stolen Youth (Direct3D 11) : https://github.com/ParagonGA4th/GAFinalProject 
+<br>
 - SuperNova (Direct2D) : https://github.com/GA2Q-SuperNovaProject/GA2Q-SuperNovaProject
+<br>
 - CheckInPlz (GDI) : https://github.com/GI-CheckInPlz/CheckInPlz
 
 <br>
